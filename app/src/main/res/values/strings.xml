@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sangeet</string>
+    <string name="sangeet">SANGEET</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="t">TODO</string>
+    <string name="tr">TODO</string>
+    <string name="r">TODO</string>
+</resources>
